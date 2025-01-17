@@ -1,5 +1,5 @@
 # 🪕 O Jogo do Número Secreto
-Este site foi desenvolvido para que o usuário acerte o número secreto.
+Este site foi desenvolvido para que o usuário acerte um número que o computador vai sortear - o número secreto.
 
 
 ## 📸: Screenshots
